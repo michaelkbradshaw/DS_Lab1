@@ -1,4 +1,4 @@
-
+//Centre College
 
 public class Lab1 {
 
